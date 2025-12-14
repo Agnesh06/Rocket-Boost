@@ -16,12 +16,10 @@
 > GitHub renders GIFs inline. Use YouTube, Loom, or Vimeo for videos.
 
 ---
-
 ## 📸 Screenshots
 
-_Add high-quality screenshots showing gameplay, precision landing, and effects._
+![Gameplay View](WebGL%20Builds/screenshot/sh%201.png)
+![Title Screen](WebGL%20Builds/screenshot/Screenshot.png)
+![Mid-Level Gameplay](WebGL%20Builds/screenshot/sh%202.png)
+![Precision Landing](WebGL%20Builds/screenshot/sh%203.png)
 
-```text
-![Level 1 Gameplay](assets/screenshots/level1.png)
-![Precision Landing](assets/screenshots/landing.png)
-![Particles & Audio Feedback](assets/screenshots/particles.png)
