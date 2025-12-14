@@ -1,61 +1,27 @@
-# 🚀 Rocket Boost – A Precision Flying Physics Game
-*A crisp, clean, and skill-based rocket control game built in Unity.*
+# 🚀 Rocket Boost
 
-## 🎮 Overview  
-**Rocket Boost** is a physics-driven Unity game where players control a rocket navigating through challenging environments. Rotate, thrust, boost, avoid obstacles, and land with precision to complete levels.  
-The game focuses on **skill, timing, and mastery**, making it both fun and educational for aspiring developers.
+**Precision flying. Skillful control. Clean gameplay.**
 
-Perfect for learning:
-- Unity physics  
-- C# programming  
-- Scene & level management  
-- Game design principles  
+> Rocket Boost is a polished Unity project where players pilot a rocket between platforms using rotation, thrust, and boost while managing gravity, obstacles, and environmental hazards. Built to demonstrate strong gameplay programming, physics handling, and game polish.
 
 ---
 
-## ✨ Features
-- 🔧 **Player Movement System**  
-  Smooth rotation, thrust, and boosting using real physics forces.
+## 🎮 Demo
 
-- 🌌 **Realistic Physics**  
-  Gravity, rigidbody forces, collision detection, and controlled movement.
+**Demo Video / GIF**
 
-- 🎯 **Skill-Based Levels**  
-  Custom-designed platforms, moving obstacles, and environmental hazards.
+- 🎥 Gameplay Walkthrough: https://your-demo-link-here  
+- 🎞️ Quick Gameplay GIF: assets/demo/rocket-boost.gif  
 
-- 🔥 **Particle & Audio Effects**  
-  Thruster flames, explosions, landing sounds, and crash effects.
-
-- 🗂️ **Smart Level Progression**  
-  - Crash → Restart level  
-  - Successful landing → Next level  
-  - Last level → Loops back to Level 1  
-
-- 🧼 **Clean Code Architecture**  
-  Uses classes, namespaces, encapsulation, and switch input handling.
-
-- 🎥 **Replayable & Shareable**  
-  Easy to show off gameplay moments, demos, and screenshots.
+> GitHub renders GIFs inline. Use YouTube, Loom, or Vimeo for videos.
 
 ---
 
-## 📸 Demo & Screenshots  
-*(Add your GIFs, screenshots, or trailer links here to attract followers!)*
+## 📸 Screenshots
 
----
+_Add high-quality screenshots showing gameplay, precision landing, and effects._
 
-## 🛠️ Tech Stack
-- **Engine:** Unity  
-- **Language:** C#  
-- **Core Concepts:**  
-  - Encapsulation & classes  
-  - Switch statements  
-  - Input actions  
-  - Rigidbody physics  
-  - Collision handling  
-  - Scene loading  
-  - Particle and audio systems  
-
----
-
-## 📂 Project Structure
+```text
+![Level 1 Gameplay](assets/screenshots/level1.png)
+![Precision Landing](assets/screenshots/landing.png)
+![Particles & Audio Feedback](assets/screenshots/particles.png)
