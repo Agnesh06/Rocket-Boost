@@ -5,7 +5,6 @@
 > Rocket Boost is a polished Unity game where players pilot a rocket between platforms using rotation, thrust, and boost.  
 > Built to showcase strong gameplay programming, physics handling, and game polish through skill-based level design.
 
-
 ---
 
 ## 🎮 Demo
@@ -16,28 +15,25 @@ _Click the image below to watch the full gameplay demo_
   <img src="WebGL%20Builds/screenshot/Screenshot%20.png" width="500">
 </a>
 
-
----
-## 🚀 Play Now
+## 🕹️ Play Now
 
 <p align="center">
   <a href="https://agnesh.itch.io/rocket-boost">
-    <img src="WebGL Builds/screenshot/button.png" alt="Play Rocket Boost" width="220">
+    <img src="WebGL%20Builds/screenshot/button.png" alt="Play Rocket Boost" width="220">
   </a>
   <br>
   <em>No download required · WebGL · Browser-based</em>
 </p>
 
-
-
----
 ## 📸 Screenshots
 
-<p float="left">
-  <img src="WebGL%20Builds/screenshot/sh%201.jpg" width="300" />
-  <img src="WebGL%20Builds/screenshot/sh%202.jpg" width="300" />
-  <img src="WebGL%20Builds/screenshot/sh%203.jpg" width="300" />
+<p align="center">
+  <img src="WebGL%20Builds/screenshot/sh%201.jpg" width="280" />
+  <img src="WebGL%20Builds/screenshot/sh%202.jpg" width="280" />
+  <img src="WebGL%20Builds/screenshot/sh%203.jpg" width="280" />
 </p>
+
+---
 
 ## ⭐ Key Features
 
@@ -56,4 +52,3 @@ _Click the image below to watch the full gameplay demo_
 - **Effects:** Particle System & Lighting  
 - **Audio:** AudioSource  
 - **Build:** WebGL  
-
