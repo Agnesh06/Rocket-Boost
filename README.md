@@ -1,8 +1,10 @@
 # 🚀 Rocket Boost
 
-**Precision flying. Skillful control. Clean gameplay.**
+**Precision flying · Skillful control · Clean gameplay**
 
-> Rocket Boost is a polished Unity project where players pilot a rocket between platforms using rotation, thrust, and boost while managing gravity, obstacles, and environmental hazards. Built to demonstrate strong gameplay programming, physics handling, and game polish.
+> Rocket Boost is a polished Unity game where players pilot a rocket between platforms using rotation, thrust, and boost.  
+> Built to showcase strong gameplay programming, physics handling, and game polish through skill-based level design.
+
 
 ---
 
@@ -16,13 +18,14 @@ _Click the image below to watch the full gameplay demo_
 
 
 ---
-<h3 align="center">🚀 Play Now</h3>
 <p align="center">
   <a href="https://agnesh.itch.io/rocket-boost">
-    <strong>▶️ Play Rocket Boost on itch.io</strong>
-  </a><br>
-  <em>No download required · WebGL · Browser-based</em>
+    <img src="assets/button-play.png" alt="Play Rocket Boost" width="240" />
+  </a>
+  <br>
+  <em>No download required · WebGL</em>
 </p>
+
 
 ---
 ## 📸 Screenshots
