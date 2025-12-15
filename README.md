@@ -8,20 +8,46 @@
 
 ## 🎮 Demo
 
-**Demo Video / GIF**
+_Click the image below to watch the full gameplay demo_
 
-- 🎥 Gameplay Walkthrough: https://your-demo-link-here  
-- 🎞️ Quick Gameplay GIF: assets/demo/rocket-boost.gif  
+<a href="https://www.youtube.com/watch?v=_vf-we72xW4">
+  <img src="WebGL%20Builds/screenshot/Screenshot%20.png" width="500">
+</a>
 
-> GitHub renders GIFs inline. Use YouTube, Loom, or Vimeo for videos.
 
 ---
+<h3 align="center">🚀 Play Now</h3>
+<p align="center">
+  <a href="https://agnesh.itch.io/rocket-boost">
+    <strong>▶️ Play Rocket Boost on itch.io</strong>
+  </a><br>
+  <em>No download required · WebGL · Browser-based</em>
+</p>
 
+---
 ## 📸 Screenshots
 
-_Add high-quality screenshots showing gameplay, precision landing, and effects._
+<p float="left">
+  <img src="WebGL%20Builds/screenshot/sh%201.jpg" width="300" />
+  <img src="WebGL%20Builds/screenshot/sh%202.jpg" width="300" />
+  <img src="WebGL%20Builds/screenshot/sh%203.jpg" width="300" />
+</p>
 
-```text
-![Level 1 Gameplay](assets/screenshots/level1.png)
-![Precision Landing](assets/screenshots/landing.png)
-![Particles & Audio Feedback](assets/screenshots/particles.png)
+## ⭐ Key Features
+
+- Physics-based rocket movement with precise thrust and rotation  
+- Skill-focused gameplay using gravity and force mechanics  
+- Multiple levels with instant retry and smooth progression  
+- Moving platforms, obstacles, and landing challenges  
+- Polished experience with particle effects and audio feedback  
+
+## 🛠 Tech Stack
+
+- **Engine:** Unity  
+- **Language:** C#  
+- **Physics:** Rigidbody & Forces  
+- **Input:** Unity Input System  
+- **Effects:** Particle System & Lighting  
+- **Audio:** AudioSource  
+- **Build:** WebGL  
+
