@@ -18,13 +18,16 @@ _Click the image below to watch the full gameplay demo_
 
 
 ---
+## 🚀 Play Now
+
 <p align="center">
   <a href="https://agnesh.itch.io/rocket-boost">
-    <img src="assets/button-play.png" alt="Play Rocket Boost" width="240" />
+    <img src="WebGL Builds/screenshot/button.png" alt="Play Rocket Boost" width="220">
   </a>
   <br>
-  <em>No download required · WebGL</em>
+  <em>No download required · WebGL · Browser-based</em>
 </p>
+
 
 
 ---
